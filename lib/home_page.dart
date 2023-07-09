@@ -129,8 +129,8 @@ class _HomePageState extends State<HomePage> {
             ),
 
             //Features List
-            Column(
-              children: const [
+            const Column(
+              children: [
                 FeatureBox(
                   color: Pallete.firstSuggestionBoxColor,
                   headearText: 'ChatGPT',
