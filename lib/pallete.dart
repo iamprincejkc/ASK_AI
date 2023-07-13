@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 class Constants {
   static const String mainFont = 'Cera Pro';
   static const String appName = 'ASK AI';
+  static const int startAnimation = 200;
+  static const int delayAnimation = 200;
 }
 
 class Pallete {
